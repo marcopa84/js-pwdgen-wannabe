@@ -8,4 +8,4 @@ var numero = 19;
 
 console.log(nome+cognome+colore+numero);
 
-document.getElementById('password').innerHTML = nome + cognome + colore+ numero
+document.getElementById('password').innerHTML = nome + cognome + colore+ numero;
